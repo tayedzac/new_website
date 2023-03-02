@@ -3,16 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Tayedza and Jueun"
+  title: "Tayedza Chikumbirike"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - portfolio.qmd
-      - href: resume.pdf
-        text: J's Resume
       - href: Resume- Tayedza Chikumbirike.pdf
-        text: T's Resume
+        text: Resume
 
 format:
   html:
