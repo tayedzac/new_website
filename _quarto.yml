@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tayedza and Jueun"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - portfolio.qmd
+      - href: resume.pdf
+        text: J's Resume
+      - href: Resume- Tayedza Chikumbirike.pdf
+        text: T's Resume
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
