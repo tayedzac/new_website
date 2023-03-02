@@ -4,8 +4,8 @@ title: "Portfolio"
 
 Some of the data science client work I have completed includes but is not limited to:
 
-[Our abortion client in India](https://github.com/tayedzac/quality-and-quantity-of-girls.git)
+[ Selective abortion in India](https://github.com/tayedzac/quality-and-quantity-of-girls.git)
 
-Our education client in the United States... under construction ;)
+Obtained education level in the United States... under construction ;)
 
 And many more!!!
