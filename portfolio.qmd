@@ -2,7 +2,7 @@
 title: "Portfolio"
 ---
 
-Some of the data science client work we have completed include but not limited to:
+Some of the data science client work I have completed includes but is not limited to:
 
 [Our abortion client in India](https://github.com/tayedzac/quality-and-quantity-of-girls.git)
 
